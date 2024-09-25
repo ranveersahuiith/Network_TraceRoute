@@ -1,0 +1,105 @@
+source: hotspot deslist: ['nytimes.com', 'flipkart.com', 'google.com', 'facebook.com', 'nytimes.com', 'wikipedia.org', 'linkedin.com', 'icann.org', 'codeforces.com', 'apple.com', 'microsoft.com', 'cloudfare.com', 'flipkart.com']
+destination: nytimes.com
+Organization: BHARTI INFOTEL LTD. ISP: BHARTI Airtel Ltd. ip: 125.16.100.109 asn: 9498 city: Bhopal
+Organization: Bharti Airtel Limited ISP: BHARTI Airtel Ltd. ip: 182.79.245.155 asn: 9498 city: New Delhi
+Organization: Fastly, Inc. ISP: Fastly, Inc. ip: 151.101.193.164 asn: 54113 city: San Francisco
+destination: flipkart.com
+Organization: BHARTI INFOTEL LTD. ISP: BHARTI Airtel Ltd. ip: 125.16.100.109 asn: 9498 city: Bhopal
+Organization: BHARTI TELESONIC INFRASTRUCTURE ISP: BHARTI Airtel Ltd. ip: 116.119.33.196 asn: 9498 city: New Delhi
+Organization: BHARTI INFOTEL LTD. ISP: BHARTI Airtel Ltd. ip: 125.16.231.194 asn: 9498 city: Bengaluru
+Organization: Flipkart Internet Pvt Ltd ISP: Flipkart Internet Pvt Ltd ip: 163.53.76.86 asn: 9752 city: Hyderabad
+destination: google.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::421 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:2::cd asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::92 asn: 9498 city: New Delhi
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:1:1::674 asn: 15169 city: Mountain View
+Organization: Google IPv6 address block in AP ISP: Google LLC ip: 2404:6800:80f7::1 asn: 15169 city: Sydney
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:0:1::4a24 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:0:1::55d7 asn: 15169 city: Mountain View
+Organization: Google IPv6 address block in AP ISP: Google LLC ip: 2404:6800:4007:823::200e asn: 15169 city: Mumbai
+destination: facebook.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::421 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:2::cd asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::92 asn: 9498 city: New Delhi
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 2620:0:1cff:dead:beee::952 asn: 32934 city: Menlo Park
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 2620:0:1cff:dead:bef0::31 asn: 32934 city: Menlo Park
+Organization: META PLATFORMS IRELAND LIMITED ISP: Facebook, Inc. ip: 2a03:2880:f09d:ffff::2f3 asn: 32934 city: Atlanta
+Organization: META PLATFORMS IRELAND LIMITED ISP: Facebook, Inc. ip: 2a03:2880:f184:81:face:b00c:0:25de asn: 32934 city: Atlanta
+destination: wikipedia.org
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::425 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:402::1d asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::226 asn: 9498 city: New Delhi
+Organization:  ISP: Equinix Asia Pacific Pte Ltd ip: 2001:de8:4::1:4907:1 asn: 0 city: Singapore
+Organization: Wikimedia Foundation, Inc. ISP: Wikimedia Foundation Inc. ip: 2001:df2:e500:ed1a::1 asn: 14907 city: Montgomery
+destination: linkedin.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::425 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:402::1d asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::92 asn: 9498 city: New Delhi
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:1::8e1 asn: 8075 city: Madison
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:2:8000::10ae asn: 8075 city: Madison
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:12::f1fe asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:12::f319 asn: 8075 city: Redmond
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:2:8000::c45 asn: 8075 city: Madison
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:224:6f::48e asn: 8075 city: London
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2620:1ec:21::14 asn: 8075 city: Redmond
+destination: icann.org
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::425 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:402::1d asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::147 asn: 9498 city: New Delhi
+Organization: DE-CIX Management GmbH ISP: CIX Management GmbH ip: 2001:7f8::b62:0:1 asn: 0 city: Cologne
+Organization: NTT United Kingdom Ltd ISP: NTT America, Inc. ip: 2001:728:0:2000::111 asn: 2914 city: Blackwall Tunnel North
+Organization: NTT United Kingdom Ltd ISP: NTT America, Inc. ip: 2001:728:0:2000::15d asn: 2914 city: Blackwall Tunnel North
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:2000::5e asn: 2914 city: Redmond
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:2000::87 asn: 2914 city: Redmond
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:5000::772 asn: 2914 city: Ashburn
+Organization:  ISP: ICANN ip: 2001:500:88:200::7 asn: 0 city: Centreville
+destination: codeforces.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::421 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:2::cd asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::2 asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:0:29::b1 asn: 9498 city: New Delhi
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 2400:cb00:578:3:: asn: 13335 city: Mumbai
+Organization:  ISP: Cloudflare, Inc. ip: 2606:4700:90d9:6680:cc0d:45a:ffa9:f65f asn: 0 city: Washington
+destination: apple.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::421 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:2::cd asn: 9498 city: New Delhi
+Organization: Akamai Technologies, Inc. ISP: BHARTI Airtel Ltd. ip: 2600:1417:78::1 asn: 9498 city: Chennai
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:1::7ce asn: 9498 city: New Delhi
+Organization: Apple South Asia Pte Ltd ISP: Apple Inc. ip: 2403:300:0:700::10 asn: 714 city: Singapore
+Organization: Apple Inc. ISP: Apple Inc. ip: 2620:149:af0::10 asn: 714 city: Cupertino
+destination: microsoft.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::425 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:402::1d asn: 9498 city: New Delhi
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:1::8e1 asn: 8075 city: Madison
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:2:8000::10ae asn: 8075 city: Madison
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:12::f1d6 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f226 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f042 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f3d9 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f2c6 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f072 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f3e6 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f3b1 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:12::f299 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:10b0:111:9103::a asn: 0 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:10b0:111:9003::96 asn: 0 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:10b0:111:9303::222 asn: 0 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:10b0:10d:236:: asn: 0 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:10b0:10d:23f:: asn: 0 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1030:b:3::152 asn: 8075 city: Des Moines
+destination: cloudfare.com
+Organization: Bharti Airtel Limited ISP: Bharti Airtel Ltd. AS for GPRS Service ip: 2401:4900:16bc:18e6::3d asn: 45609 city: Bhopal
+Organization:  ISP: Bharti Airtel Limited ip: 2401:4900:d0:4001::421 asn: 0 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800:3a00:2::cd asn: 9498 city: New Delhi
+Organization: Bharti Airtel Ltd. ISP: BHARTI Airtel Ltd. ip: 2404:a800::147 asn: 9498 city: New Delhi
+Organization: DE-CIX Management GmbH ISP: CIX Management GmbH ip: 2001:7f8::3417:0:2 asn: 0 city: Cologne
+Organization:  ISP: CLOUDFLARE ip: 2400:cb00:636:3:: asn: 0 city: Frankfurt
+Organization:  ISP: Cloudflare, Inc. ip: 2606:4700:3031::6815:4dd8 asn: 0 city: San Francisco

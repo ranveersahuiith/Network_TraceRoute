@@ -1,0 +1,102 @@
+source: Unknown adapter ProtonVPN: Connection-specific DNS Suffix  . : IPv4 Address. . . . . . . . . . . : 10.2.0.2 Subnet Mask . . . . . . . . . . . : 255.255.255.255 Default Gateway . . . . . . . . . : 0.0.0.
+deslist: ['facebook.com', 'nytimes.com', 'wikipedia.org', 'linkedin.com', 'flipkart.com', 'icann.org', 'codeforces.com', 'apple.com', 'microsoft.com', 'cloudfare.com', 'google.com']
+destination: facebook.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.188 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.240 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.229.188.71 asn: 60068 city: Prague
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.85.46 asn: 32934 city: Miami
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 129.134.64.160 asn: 32934 city: Miami
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.58.177 asn: 32934 city: Menlo Park
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.39.121 asn: 32934 city: Toronto
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.14.35 asn: 32934 city: Boca Raton
+destination: nytimes.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: African Network Information Center - ( AfriNIC Ltd. ) ISP: Cogent Communications ip: 154.54.88.225 asn: 174 city: Miami
+Organization: African Network Information Center - ( AfriNIC Ltd. ) ISP: Cogent Communications ip: 154.54.46.106 asn: 174 city: Jacksonville
+Organization: Cogent Communications - IPENG ISP: Cogent Communications ip: 154.24.81.110 asn: 174 city: Santa Ana
+Organization: PSINet, Inc. ISP: Cogent Communications ip: 38.142.165.226 asn: 174 city: Jacksonville
+Organization: Fastly, Inc. ISP: Fastly, Inc. ip: 151.101.65.164 asn: 54113 city: Washington
+destination: wikipedia.org
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: Arelion Sweden AB ISP: Arelion Sweden AB ip: 213.248.70.129 asn: 1299 city: Miami
+Organization: Arelion Sweden AB ISP: Arelion Sweden AB ip: 62.115.120.176 asn: 1299 city: Ashburn
+Organization: Arelion Sweden AB ISP: Arelion Sweden AB ip: 62.115.123.125 asn: 1299 city: Ashburn
+Organization: Provider Arelion Sweden AB ISP: Arelion Sweden AB ip: 80.239.132.226 asn: 1299 city: Seattle
+Organization: Wikimedia Foundation Inc. ISP: Wikimedia Foundation Inc. ip: 208.80.154.224 asn: 14907 city: Chicago
+destination: linkedin.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 63.243.152.34 asn: 6453 city: Miami
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 216.6.87.26 asn: 6453 city: Ashburn
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.230.174 asn: 8075 city: New York
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.237.28 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 13.106.95.179 asn: 8075 city: Portland
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 13.107.42.14 asn: 8068 city: Redmond
+destination: flipkart.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 66.110.76.9 asn: 6453 city: Miami
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 216.6.87.9 asn: 6453 city: Ashburn
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 216.6.57.5 asn: 6453 city: Newark
+Organization: TATA Communications Ltd ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 66.198.70.10 asn: 6453 city: Newark
+Organization: Internet Service Provider ISP: TATA Communications formerly VSNL is Leading ISP ip: 115.110.250.194 asn: 4755 city: Ahmedabad
+Organization: Flipkart Internet Pvt Ltd ISP: Flipkart Internet Pvt Ltd ip: 103.243.32.90 asn: 9752 city: Bengaluru
+destination: icann.org
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.188 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.242 asn: 60068 city: Prague
+Organization: GTT ISP: GTT Communications Inc. ip: 76.74.1.97 asn: 3257 city: McLean
+Organization: GTT ISP: GTT Communications Inc. ip: 89.149.139.133 asn: 3257 city: Chicago
+Organization:  ISP: PacketExchange ip: 69.174.10.82 asn: 3257 city: Orlando
+Organization:  ISP: ICANN ip: 192.0.43.7 asn: 16876 city: Anthony
+destination: codeforces.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.188 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.242 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.229.188.73 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 45.134.215.15 asn: 60068 city: Prague
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 172.70.252.2 asn: 13335 city: Miami
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 104.26.6.164 asn: 13335 city: San Francisco
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 104.26.6.164 asn: 13335 city: San Francisco
+destination: apple.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 138.199.0.10 asn: 60068 city: Prague
+Organization: Telstra Global Internet Services Network Blocks ISP: Telstra Global ip: 210.57.53.26 asn: 4637 city: Singapore
+Organization: Reach Networks HK Ltd. ISP: Telstra Global ip: 202.40.149.178 asn: 4637 city: Hong Kong
+Organization: Reach Networks HK Ltd. ISP: Telstra Global ip: 202.40.149.178 asn: 4637 city: Hong Kong
+Organization: Telstra Global Internet Services Network Blocks ISP: Telstra Global ip: 202.84.137.102 asn: 4637 city: Wan Chai
+Organization: Telstra Global Internet Services Network Blocks ISP: Telstra Global ip: 202.84.137.102 asn: 4637 city: Wan Chai
+Organization: Telstra Global Internet Services Network Blocks ISP: Telstra Global ip: 202.84.222.86 asn: 4637 city: Wan Chai
+Organization: Telstra Global Internet Services Network /24 Block ISP: Telstra Global ip: 210.176.152.162 asn: 4637 city: Sydney
+Organization: Apple Inc. ISP: Apple Inc. ip: 17.253.144.10 asn: 714 city: Cupertino
+destination: microsoft.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.246 asn: 60068 city: Prague
+Organization: TATA COMMUNICATIONS (AMERICA) INC ISP: TATA COMMUNICATIONS (AMERICA) INC ip: 63.243.152.34 asn: 6453 city: Miami
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.230.172 asn: 8075 city: New York
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.21.235 asn: 8075 city: Ashburn
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.30.4 asn: 8075 city: Ashburn
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.29.253 asn: 8075 city: Cleveland
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.7.223 asn: 8075 city: New York
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.28.222 asn: 8075 city: Des Moines
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.28.255 asn: 8075 city: Des Moines
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.29.18 asn: 8075 city: Cheyenne
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.16.84 asn: 8075 city: Quincy
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.32.213 asn: 8075 city: Moses Lake
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 20.236.44.162 asn: 8075 city: Quincy
+destination: cloudfare.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.188 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.242 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.229.188.73 asn: 60068 city: Prague
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 45.134.215.15 asn: 60068 city: Prague
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 172.70.52.2 asn: 13335 city: Miami
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 172.67.211.231 asn: 13335 city: San Francisco
+destination: google.com
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 195.181.162.189 asn: 60068 city: Miami
+Organization: Datacamp Limited ISP: Datacamp Limited ip: 185.156.45.244 asn: 60068 city: Prague
+Organization: Arelion Sweden AB ISP: Arelion Sweden AB ip: 213.248.70.129 asn: 1299 city: Miami
+Organization: Provider Arelion Sweden AB ISP: Arelion Sweden AB ip: 80.239.128.35 asn: 1299 city: Seattle
+Organization: Google LLC ISP: Google LLC ip: 108.170.253.17 asn: 15169 city: Washington
+Organization: Google LLC ISP: Google LLC ip: 142.251.66.77 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 142.251.35.238 asn: 15169 city: Marriottsville

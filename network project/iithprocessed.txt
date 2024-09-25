@@ -1,0 +1,80 @@
+source: hotspot deslist: ['nytimes.com', 'facebook.com', 'wikipedia.org', 'linkedin.com', 'flipkart.com', 'icann.org', 'codeforces.com', 'apple.com', 'microsoft.com', 'cloudfare.com', 'google.com']
+destination: nytimes.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Fastly, Inc. ISP: Fastly, Inc. ip: 151.101.129.164 asn: 54113 city: San Francisco
+destination: facebook.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.66.204 asn: 32934 city: Mumbai
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.44.27 asn: 32934 city: Toronto
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 173.252.67.125 asn: 32934 city: Menlo Park
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 157.240.16.35 asn: 32934 city: Mumbai
+destination: wikipedia.org
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Wikimedia Foundation, Inc. ISP: Wikimedia Foundation Inc. ip: 103.102.166.224 asn: 14907 city: San Francisco
+destination: linkedin.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.12.6 asn: 8075 city: Mumbai
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.212.198 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 13.107.42.14 asn: 8068 city: Redmond
+destination: flipkart.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.244.220.238 asn: 55836 city: Udupi
+Organization: Flipkart Internet Pvt Ltd ISP: Flipkart Internet Pvt Ltd ip: 103.243.32.90 asn: 9752 city: Bengaluru
+destination: icann.org
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: PSINet, Inc. ISP: Cogent Communications ip: 130.117.48.137 asn: 174 city: Nice
+Organization: African Network Information Center - ( AfriNIC Ltd. ) ISP: Cogent Communications ip: 154.54.60.5 asn: 174 city: London
+Organization: African Network Information Center - ( AfriNIC Ltd. ) ISP: Cogent Communications ip: 154.54.58.174 asn: 174 city: Atlanta
+Organization: African Network Information Center - ( AfriNIC Ltd. ) ISP: GTT Communications Inc. ip: 154.14.40.57 asn: 3257 city: Isenburg
+Organization: GTT ISP: GTT Communications Inc. ip: 213.254.214.158 asn: 3257 city: Isenburg
+Organization:  ISP: PacketExchange ip: 69.174.10.82 asn: 3257 city: Orlando
+Organization:  ISP: ICANN ip: 192.0.43.7 asn: 16876 city: Anthony
+destination: codeforces.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 49.44.187.49 asn: 55836 city: Navi Mumbai
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 172.67.68.254 asn: 13335 city: San Francisco
+destination: apple.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 49.44.187.177 asn: 55836 city: Navi Mumbai
+Organization: Apple Inc. ISP: Apple Inc. ip: 17.0.14.199 asn: 714 city: Cupertino
+Organization: Apple Inc. ISP: Apple Inc. ip: 17.253.144.10 asn: 714 city: Cupertino
+Organization: Apple Inc. ISP: Apple Inc. ip: 17.253.144.10 asn: 714 city: Cupertino
+destination: microsoft.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.12.6 asn: 8075 city: Mumbai
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.235.254 asn: 8075 city: Mumbai
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.34.40 asn: 8075 city: Mumbai
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.16.244 asn: 8075 city: Abu Dhabi
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.17.82 asn: 8075 city: Marseille
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.29.219 asn: 8075 city: Bilbao
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.29.234 asn: 8075 city: Bilbao
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.30.97 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 104.44.32.47 asn: 8075 city: Ashburn
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 20.231.239.246 asn: 8075 city: Washington
+destination: cloudfare.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 115.247.100.29 asn: 55836 city: Vijayawada
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 104.21.77.216 asn: 13335 city: San Francisco
+destination: google.com
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.70 asn: 59193 city: Hyderabad
+Organization: IIT Hyderabad ISP: IIT Hyderabad ip: 103.232.241.2 asn: 59193 city: Hyderabad
+Organization: Google LLC ISP: Google LLC ip: 72.14.195.128 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 142.251.227.213 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 142.250.228.81 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 142.250.67.46 asn: 15169 city: Chennai

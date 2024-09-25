@@ -1,0 +1,121 @@
+source: hotspot deslist: ['facebook.com', 'microsoft.com', 'codeforces.com', 'nytimes.com', 'cloudfare.com', 'linkedin.com', 'wikipedia.org', 'icann.org', 'flipkart.com', 'google.com', 'apple.com']
+destination: facebook.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc2 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b4b asn: 0 city: Navi Mumbai
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 2620:0:1cff:dead:beee::992 asn: 32934 city: Menlo Park
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 2620:0:1cff:dead:beee::992 asn: 32934 city: Menlo Park
+Organization: Facebook, Inc. ISP: Facebook, Inc. ip: 2620:0:1cff:dead:bef0::76b asn: 32934 city: Menlo Park
+Organization: META PLATFORMS IRELAND LIMITED ISP: Facebook, Inc. ip: 2a03:2880:f037:ffff::ed asn: 32934 city: Berlin
+Organization: META PLATFORMS IRELAND LIMITED ISP: Facebook, Inc. ip: 2a03:2880:f137:83:face:b00c:0:25de asn: 32934 city: Berlin
+destination: microsoft.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc2 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b4b asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1632:600:49:44:187:87 asn: 0 city: Mumbai
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:2000:2:8000::c89 asn: 8075 city: Madison
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:12::f026 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f139 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f422 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f1d5 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:2:10::f3d5 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f312 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f21e asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:10::f14d asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1060:0:12::f169 asn: 8075 city: Redmond
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2603:1030:c02:8::14 asn: 8075 city: Quincy
+destination: codeforces.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc0 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc1 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::aef asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1642:600:49:44:220:85 asn: 0 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1642:600:49:44:220:85 asn: 0 city: Mumbai
+Organization:  ISP: Cloudflare, Inc. ip: 2606:4700:9ae9:6680:cc3b:78:ffa9:f65f asn: 0 city: Washington
+destination: nytimes.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::55 asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2200 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbe asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc1 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:876:3668:61::6 asn: 0 city: Navi Mumbai
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::ac1a:6452 asn: 0 city: Faoug
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::c0a8:3b6e asn: 0 city: Faoug
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::9765:41a4 asn: 0 city: Faoug
+destination: cloudfare.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc2 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b4b asn: 0 city: Navi Mumbai
+Organization: Cloudflare, Inc. ISP: Cloudflare, Inc. ip: 2400:cb00:35:3::a29e:a0de asn: 13335 city: Singapore
+Organization: Cloudflare WARP ISP: Cloudflare, Inc. ip: 2400:cb00:410:3:: asn: 0 city: Singapore
+Organization:  ISP: Cloudflare, Inc. ip: 2606:4700:3031::6815:4dd8 asn: 0 city: San Francisco
+destination: linkedin.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc0 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc1 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b49 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1632:600:49:44:187:87 asn: 0 city: Mumbai
+Organization: Microsoft Limited ISP: Microsoft Corporation ip: 2a01:111:224:138::6e asn: 8075 city: London
+Organization: Microsoft Corporation ISP: Microsoft Corporation ip: 2620:1ec:21::14 asn: 8075 city: Redmond
+destination: wikipedia.org
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc0 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b4b asn: 0 city: Navi Mumbai
+Organization: Wikimedia Foundation, Inc. ISP: Wikimedia Foundation Inc. ip: 2001:df2:e500:ed1a::1 asn: 14907 city: Montgomery
+destination: icann.org
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc4 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc1 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::aef asn: 0 city: Navi Mumbai
+Organization:  ISP: Rjipl ip: 2403:1a80:0:901:103:198:140:176 asn: 0 city: Singapore
+Organization:  ISP: Rjipl ip: 2403:1a80:0:901:103:198:140:176 asn: 0 city: Singapore
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:5000::c08 asn: 2914 city: Ashburn
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:2000::22d asn: 2914 city: Redmond
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:2000::245 asn: 2914 city: Redmond
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:2000::87 asn: 2914 city: Redmond
+Organization: NTT America, Inc. ISP: NTT America, Inc. ip: 2001:418:0:5000::772 asn: 2914 city: Ashburn
+Organization:  ISP: ICANN ip: 2001:500:88:200::7 asn: 0 city: Centreville
+destination: flipkart.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbe asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:876:3668:61::8 asn: 0 city: Navi Mumbai
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::ac1a:6453 asn: 0 city: Faoug
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::c0a8:3b6e asn: 0 city: Faoug
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::73f7:6686 asn: 0 city: Faoug
+Organization:  ISP: Internet Assigned Numbers Authority ip: 64:ff9b::a335:4c56 asn: 0 city: Faoug
+destination: google.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc0 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cbf asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::b4b asn: 0 city: Navi Mumbai
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:1:1::136 asn: 15169 city: Mountain View
+Organization: Google IPv6 address block in AP ISP: Google LLC ip: 2404:6800:8038::1 asn: 15169 city: Sydney
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:0:1::464 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:0:1340::9 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 2001:4860::1c:4001:1d54 asn: 15169 city: Mountain View
+Organization: Google LLC ISP: Google LLC ip: 2001:4860:0:1::5637 asn: 15169 city: Mountain View
+Organization: Google IPv6 address block in AP ISP: Google LLC ip: 2404:6800:4007:81e::200e asn: 15169 city: Mumbai
+destination: apple.com
+Organization: Reliance Jio Infocomm Limited ISP: Reliance Jio Infocomm Limited ip: 2409:408c:1b80:6387::5d asn: 55836 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:393:eeee:20::2428 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc0 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::cc1 asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:801:700::aef asn: 0 city: Navi Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1603:600:49:44:187:b1 asn: 0 city: Mumbai
+Organization: wireless ISP: Reliance Jio Infocomm Limited ip: 2405:200:1603:600:49:44:187:b1 asn: 0 city: Mumbai
+Organization: Apple South Asia Pte Ltd ISP: Apple Inc. ip: 2403:300:0:700::10 asn: 714 city: Singapore
+Organization: Apple Inc. ISP: Apple Inc. ip: 2620:149:af0::10 asn: 714 city: Cupertino
+​
